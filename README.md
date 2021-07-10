@@ -1,7 +1,7 @@
-FIFA20
-==============================
+# FIFA20
 
-Predictions of players positions based on their features.
+I trained several different models in order to be able to predict the players positions based on their features.
+This project was part of my final exam from the Introductory course of Machine Learning. 
 
 Project Organization
 ------------
